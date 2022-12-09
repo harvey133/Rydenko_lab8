@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/TSN_DEMO_08_JSOUP_Rates/build/
+/TSN_DEMO_08_JSOUP_Rates/build/intermediates/javac/debug/classes/
